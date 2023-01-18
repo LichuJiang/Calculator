@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  width: 50vw;
+  height: 80vh;
+  border-radius: 25px;
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  margin: auto;
+  background-image: linear-gradient(315deg, black 0%, gray 75%);
+}

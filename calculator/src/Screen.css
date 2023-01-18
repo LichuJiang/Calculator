@@ -1,0 +1,14 @@
+.screen {
+    border-radius:25px;
+    font-size: 50px;
+    background-color: rgb(194, 208, 218);
+    color:rgb(97, 101, 104);
+}
+
+.screen-row1 {
+    text-align: justify;
+}
+
+.screen-row2 {
+    text-align: right;
+}
